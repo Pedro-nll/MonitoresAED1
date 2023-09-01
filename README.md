@@ -5,6 +5,7 @@
  - [Exercicios Condicional](./Unidade%202%20-%20Exercicios%20Condicional/)
  - [Exercicios Revisão](./Unidade%202%20-%20Exercicios%20Revisão/)
  - [Exercicios Sequencial](./Unidade%202%20-%20Exercicios%20Sequencial/)
+  - [Exercicios de Repetição](./Unidade%202%20-%20Exercicios%20de%20repetição/)
   
  ### *Unidade 3*:
  - [Exercícios Matrizes](./Unidade%203%20-%20Exercícios%20Matrizes/)
