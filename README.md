@@ -1,5 +1,7 @@
 # Listagem de listas de exercícios
 
+## Instruções para fazer os commites:  
+[Instruções.md](INSTRUCOES.md)
 ## Existem as seguinte listas nesse repósitório:  
  ### *Unidade 2*:
  - [Exercicios Condicional](./Unidade%202%20-%20Exercicios%20Condicional/)
