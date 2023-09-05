@@ -35,3 +35,6 @@ Em que:
  
 
  
+## Ajustar questão
+
+Para toda questão que deve ter seu enunciado alterado para maior adequação ao verde, e somente nessas questões, deve haver um arquivo chamado “AJUSTE.txt” contendo uma ideia de como o enunciado do exercício deve ser alterado para tal. 
