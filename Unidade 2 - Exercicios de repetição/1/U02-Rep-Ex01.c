@@ -2,9 +2,13 @@
 
 int main()
 {
-    for(int i = 2; i<=50; i++) 
+    int n;
+    int m;
+    scanf("%d %d", &n, &m);
+
+    for(int i = n; i<=m; i++)
     {
-        if(i % 2 == 0) 
+        if(i % 2 == 0)
         {
             printf("%d ", i);
         }
