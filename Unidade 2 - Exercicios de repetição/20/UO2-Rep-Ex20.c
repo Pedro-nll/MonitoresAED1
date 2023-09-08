@@ -16,7 +16,7 @@ int main(void){
     }
     
 
-    printf("%f\n",senx);
+    printf("%.2f\n",senx);
     return 0;
 }
 

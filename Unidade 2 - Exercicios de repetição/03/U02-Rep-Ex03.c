@@ -27,6 +27,7 @@ int main()
             menor = aux;
         }
     }
+    printf("%d %d\n", maior, menor);
 
 
     return 0;
