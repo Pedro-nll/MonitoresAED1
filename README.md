@@ -2,11 +2,13 @@
 
 ## Instruções para fazer os commites:  
 [Instruções.md](INSTRUCOES.md)
+
+Caso houver um asterisco na frente do exercício ele possui algum conceito extra em seu conteúdo.
 ## Existem as seguinte listas nesse repósitório:  
  ### *Unidade 2*:
- - [Exercicios Condicional](./Unidade%202%20-%20Exercicios%20Condicional/)
- - [Exercicios Revisão](./Unidade%202%20-%20Exercicios%20Revisão/)
- - [Exercicios Sequencial](./Unidade%202%20-%20Exercicios%20Sequencial/)
+ - [Exercicios Condicional](./Unidade%202%20-%20Exercicios%20Condicional/) 
+ - [Exercicios Revisão](./Unidade%202%20-%20Exercicios%20Revisão/) 
+ - [Exercicios Sequencial](./Unidade%202%20-%20Exercicios%20Sequencial/README.md) *
   - [Exercicios de Repetição](./Unidade%202%20-%20Exercicios%20de%20repetição/README.md)
   
  ### *Unidade 3*:

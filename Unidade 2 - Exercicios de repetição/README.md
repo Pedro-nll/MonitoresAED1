@@ -4,7 +4,7 @@
  ------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  [Exercício 1](./01)     | Imprimir os números pares entre o intervalo N e M. Os valores M e N são informados na entrada, sendo inteiros, N < M e N >= 0.
  [Exercício 2](./02)     | Imprimir os termos de uma progressão aritmética de razão Q e primeiro e último termos iguais a 1 e N, respectivamente. N e Q são informados na entrada.
- [Exercício 3](./02)     | Ler N números reais e imprimir qual foi o maior e o menor número informado. A quantidade N de números a serem lidos é informada pelo usuário, sendo N o primeiro valor lido.
+ [Exercício 3](./03)     | Ler N números reais e imprimir qual foi o maior e o menor número informado. A quantidade N de números a serem lidos é informada pelo usuário, sendo N o primeiro valor lido.
  [Exercício 4](./04)     | Faça um algoritmo que calcula e imprime a soma dos números entre N e M. N e M são informados na entrada, sendo inteiros, N < M e N >= 0.
  [Exercício 5](./05)     | Faça um algoritmo que calcula e imprime o produto dos números entre N e M. N e M são informados na entrada, sendo inteiros, N < M e N >= 0.
  [Exercício 6](./06)     | Ler N números inteiros e exibir a soma dos números. A quantidade N de números a serem lidos é informada pelo usuário, sendo N o primeiro valor lido.
