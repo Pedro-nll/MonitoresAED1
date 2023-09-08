@@ -23,6 +23,6 @@ distintas: <br/> (a) o preço do produto sofreu um desconto de 10%. <br/> (b) o 
 
 
 Conceitos extras:
-* Uso de define.
-** Unsigned int.
-*** Ler mais de uma variável no mesmo scanf.
+<br/> * Uso de define.
+<br/> ** Unsigned int.
+<br/> *** Ler mais de uma variável no mesmo scanf.
