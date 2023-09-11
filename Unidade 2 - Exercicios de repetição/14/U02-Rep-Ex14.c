@@ -2,7 +2,7 @@
 
 int isPrimo(int n){
     int resp = 1;
-    if(n != 2 && n % 2 == 0){
+    if( n==1 || (n != 2 && n % 2 == 0) ){
         resp = 0;
     }
     else{
