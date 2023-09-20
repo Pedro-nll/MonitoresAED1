@@ -24,11 +24,11 @@ int main()
            qtdeMenoresDe16++;
     }
 
-    printf("Total de alunos com idade menor ou igual a 16 anos: %d\n"
-           "Total de alunos com idade maior que 16 anos: %d\n"
-           "Idade média da turma: %.2f\n"
-           "Idade do aluno mais novo: %d\n"
-           "Idade do aluno mais velho: %d", qtdeMenoresDe16, qtdeMaioresDe16, (float)soma/qtde, aluno[maisNovo], aluno[maisVelho]);
+    printf("%d\n"
+           "%d\n"
+           "%.2f\n"
+           "%d\n"
+           "%d", qtdeMenoresDe16, qtdeMaioresDe16, (float)soma/qtde, aluno[maisNovo], aluno[maisVelho]);
     
     return 0;
 }
