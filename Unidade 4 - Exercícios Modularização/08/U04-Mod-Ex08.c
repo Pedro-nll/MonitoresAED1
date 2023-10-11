@@ -1,22 +1,7 @@
 #include<stdio.h>
 
 #define qtdeNotas 3
-
-float notaFinal(float nota1,float nota2,float nota3, char operacao){
-    float notaF;
-    if(operacao == 'A'){
-        notaF = nota1 + nota2 + nota3;
-        notaF = notaF/qtdeNotas;
-
-    } else if(operacao == 'P'){
-        int nDivisor = 5+3+2;
-        notaF = nota1*5 + nota2*3 + nota3*2;
-        notaF = notaF/nDivisor;
-    }
-
-    return notaF;
-}
-
+float notaFinal(float nota1,float nota2,float nota3, char operacao);
 int main() {
     int qtdeAlunos;
     char tipoOperacao;
@@ -40,4 +25,19 @@ int main() {
     
 
     return 0;
+}
+
+float notaFinal(float nota1,float nota2,float nota3, char operacao){
+    float notaF;
+    if(operacao == 'A'){
+        notaF = nota1 + nota2 + nota3;
+        notaF = notaF/qtdeNotas;
+
+    } else if(operacao == 'P'){
+        int nDivisor = 5+3+2;
+        notaF = nota1*5 + nota2*3 + nota3*2;
+        notaF = notaF/nDivisor;
+    }
+
+    return notaF;
 }
